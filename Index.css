@@ -26,3 +26,32 @@ li a:active{
     background-color: #4CAF50;
     color: white;
 }
+
+.info{
+    float:right;
+    width: 400px;
+    padding: 5px;
+}
+
+.introduction{
+    float:right;
+    width: 500px;
+    padding: 5px;
+}
+
+.hobbies{
+    float: right;
+    width: 400px;
+    padding: 5px;
+}
+
+.past{
+    float: right;
+    width: 400px;
+    padding: 5px;
+}
+
+.skills{
+    float: left;
+    padding-left: 250px;
+}
