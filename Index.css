@@ -28,30 +28,50 @@ li a:active{
 }
 
 .info{
-    float:right;
+    float:left;
     width: 400px;
-    padding: 5px;
+    padding-left: 250px;
+    background-color:crimson;
 }
 
 .introduction{
     float:right;
     width: 500px;
-    padding: 5px;
+    padding-right: 100px;
+    background-color:black;
+    color:white;
 }
 
 .hobbies{
     float: right;
     width: 400px;
-    padding: 5px;
+    padding-right: 100px;
+    background-color:crimson;
+}
+.hobbies:hover{
+    background-color:skyblue;
 }
 
 .past{
-    float: right;
+    float: left;
     width: 400px;
-    padding: 5px;
+    padding-left: 250px;
+    background-color:skyblue;
+}
+
+.past:hover{
+    background-color:crimson;
 }
 
 .skills{
     float: left;
     padding-left: 250px;
+    background-color:yellow;
+}
+
+.classProjects{
+    float: left;
+    padding-left: 250px;
+    background-color:blue;
+    color:white;
 }
